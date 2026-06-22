@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-firewall-policy/compare/v1.0.0...v1.1.0) (2026-06-22)
+
+
+### Features
+
+* bump tf and provider version ([a10a4e6](https://github.com/CloudAstro/terraform-azurerm-firewall-policy/commit/a10a4e6c93e61fcbd4a77d131ef1eec27f61ced4))
+
 ## 1.0.0 (2025-07-08)
 
 
